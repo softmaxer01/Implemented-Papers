@@ -19,7 +19,7 @@ Implemented-Papers/
 ## Computer Vision & CNNs
 
 ### Convolutional Neural Networks
-- [*] **LeNet-5** (1998) - *Gradient-based learning applied to document recognition*
+- [x] **LeNet-5** (1998) - *Gradient-based learning applied to document recognition*
 - [ ] **AlexNet** (2012) - *ImageNet Classification with Deep Convolutional Neural Networks*
 - [ ] **VGGNet** (2014) - *Very Deep Convolutional Networks for Large-Scale Image Recognition*
 - [ ] **GoogLeNet/Inception** (2014) - *Going Deeper with Convolutions*
