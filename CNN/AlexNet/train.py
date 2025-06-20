@@ -6,6 +6,9 @@ import torchvision
 import torchvision.transforms as transforms
 import torch
 
+print("ALEX-NET")
+print("="*10)
+
 class MODEL():
     def __init__(self):
         self.learning_rate = 0.001
