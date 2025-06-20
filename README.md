@@ -19,10 +19,10 @@ Implemented-Papers/
 ## Computer Vision & CNNs
 
 ### Convolutional Neural Networks
-- [x] **LeNet-5** (1998) - *Gradient-based learning applied to document recognition*
-- [ ] **AlexNet** (2012) - *ImageNet Classification with Deep Convolutional Neural Networks*
-- [ ] **VGGNet** (2014) - *Very Deep Convolutional Networks for Large-Scale Image Recognition*
-- [ ] **GoogLeNet/Inception** (2014) - *Going Deeper with Convolutions*
+- [x] **LeNet-5** (1998) - *Gradient-based learning applied to document recognition* - [Code](https://github.com/srmty09/Implemented-Papers/tree/main/CNN/LeNet)
+- [x] **AlexNet** (2012) - *ImageNet Classification with Deep Convolutional Neural Networks* - [Code](https://github.com/srmty09/Implemented-Papers/tree/main/CNN/AlexNet)
+- [x] **VGGNet** (2014) - *Very Deep Convolutional Networks for Large-Scale Image Recognition* - [Code](https://github.com/srmty09/Implemented-Papers/tree/main/CNN/VGG)
+- [x] **GoogLeNet/Inception** (2014) - *Going Deeper with Convolutions* - [Paper](https://arxiv.org/abs/1409.4842) | [Code](https://github.com/srmty09/Implemented-Papers/tree/main/CNN/Inception%20Net)
 - [ ] **ResNet** (2015) - *Deep Residual Learning for Image Recognition*
 - [ ] **DenseNet** (2016) - *Densely Connected Convolutional Networks*
 - [ ] **MobileNet** (2017) - *Efficient Convolutional Neural Networks for Mobile Vision Applications*
