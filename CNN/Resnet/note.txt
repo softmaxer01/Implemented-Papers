@@ -1,0 +1,4 @@
+General idea:
+- the accuracy should go down wrt the deapth of the ModuleNotFoundError
+
+- with the residual block the theory is the network should never forgot the learned things. so with the deapth is the loss will not increase.
